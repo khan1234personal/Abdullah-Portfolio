@@ -1,0 +1,6 @@
+{
+  "name": "Khan Abdullah Portfolio",
+  "description": "An interactive, modern, and accessible React portfolio for Khan Abdullah (PHP & Full Stack Developer), featuring a 3D technology orbit, professional experience timeline, project showcase, and a friendly guest console playground.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
